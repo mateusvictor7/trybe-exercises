@@ -1,0 +1,18 @@
+#cabecalho {
+  background: blue fixed;
+  max-width: auto;
+  text-align: center;
+}
+
+.descricao {
+  background-color: cyan;
+  text-align: center;
+}
+
+.hard {
+  display: inline-block;
+}
+
+.soft {
+  display: inline-block;
+}
