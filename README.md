@@ -1,1 +1,1 @@
-# trybe_exercises
+Hello, my name is Mateus Santiago. I'm 23 years old. Currently, I'm a student of programming on Trybe. In this repository you find my exercises about my learning in the school. Appreciate that, in the beginning, I studied HTML, CSS, JS and unit tests with the Jest. So, one day I will update my README.
